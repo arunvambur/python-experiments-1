@@ -1,1 +1,1 @@
-pint("something print")
+pintf("something print")
